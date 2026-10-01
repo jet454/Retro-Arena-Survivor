@@ -12,7 +12,7 @@
   * Analog Joystick (2-Axis) ควบคุมทิศทาง
   * Potentiometer ปรับความสว่างหน้าจอ
   * Push Button ปุ่มกดใช้สกิลระเบิด
-  * Status LEDs 3 สี (เขียว, เหลือง, แดง) แสดง 
+  * Status LEDs 3 สี (เขียว, เหลือง, แดง) แสดงระดับ HP ของตัวละคร
   * Passive Piezo Buzzer ขับเสียงเอฟเฟกต์
 
 ## 3) Block Diagram & Circuit Diagram
@@ -54,3 +54,4 @@
 สามารถดาวน์โหลดไฟล์นำเสนอผลงานได้ที่นี่:
 * [ไฟล์สไลด์นำเสนอต้นฉบับ (.pptx)](./presentation/presentation.pptx)
 * [ไฟล์สไลด์นำเสนอ (.pdf)](./presentation/presentation.pdf)
+
