@@ -39,25 +39,18 @@
 | อุปกรณ์ต่อพ่วง (Component) | ขาฮาร์ดแวร์ | ขา ESP32 (GPIO) | โหมดการทำงาน (Mode) | หน้าที่และความสำคัญ |
 | --- | --- | --- | --- | --- |
 | **Analog Joystick**<br> | VRx / VRy | GPIO 34 / GPIO 33 | ADC Input (Analog) | อ่านค่าพิกัดแกน X/Y ควบคุมการเคลื่อนที่
-
  |
 | **Potentiometer**<br> | Wiper | GPIO 32 | ADC Input (Analog) | อ่านค่าแรงดันเพื่อนำไปปรับความสว่าง Backlight
-
  |
 | **Push Button**<br> | Signal | GPIO 25 | Digital Input (Pull-up) | ปุ่มเปิดใช้สกิลระเบิด (Skill) / ยืนยันเมนู
-
  |
 | **TFT Display Backlight**<br> | LED / BL | GPIO 14 | PWM Output | รับสัญญาณ PWM ควบคุมความสว่างหน้าจอ
-
  |
 | **Status LEDs (3 สี)**<br> | Green/Yellow/Red | GPIO 16 / 17 / 5 | Digital Output | แสดงสถานะพลังชีวิต (HP Bar) นอกหน้าจอ
-
  |
 | **Passive Piezo Buzzer**<br> | Pin (+) | GPIO 26 | PWM / Tone Generator | ขับสัญญาณเสียงเอฟเฟกต์ SFX
-
  |
 | **TFT LCD (320x480)**<br> | SPI Pins | SPI Standard Pins | Hardware SPI | หน้าจอแสดงผลหลักของตัวเกม
-
  |
 
 #### 2.2 การจัดการสัญญาณอนาล็อก (Analog Signal Handling)
