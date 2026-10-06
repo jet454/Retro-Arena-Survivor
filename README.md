@@ -34,10 +34,10 @@
 | Status LEDs | Green/Yellow/Red | GPIO 16 / 17 / 5 | ไฟแสดงระดับ HP ของตัวละคร |
 | Passive Buzzer | Pin (+) | GPIO 26 | ส่งสัญญาณเสียงเอฟเฟกต์ SFX |
 
-* **Datasheets อุปกรณ์เพิ่มเติม:** สามารถดาวน์โหลดและอ่านรายละเอียดได้ในโฟลเดอร์ [`docs/datasheets/`](./03_block_diagram_and_circuit_diagram/datasheets//datasheets/)
+* **Datasheets อุปกรณ์เพิ่มเติม:** สามารถดาวน์โหลดและอ่านรายละเอียดได้ในโฟลเดอร์ [`03_block_diagram_and_circuit_diagram/datasheets//datasheets/`](./03_block_diagram_and_circuit_diagram/datasheets//datasheets/)
 
 ## 4) Codes
-ซอร์สโค้ดฉบับสมบูรณ์ (เวอร์ชันล่าสุด) ถูกจัดเก็บอยู่ที่ [`src/main.cpp`](./04_codes/main.cpp)
+ซอร์สโค้ดฉบับสมบูรณ์ (เวอร์ชันล่าสุด) ถูกจัดเก็บอยู่ที่ [`04_codes/main.cpp`](./04_codes/main.cpp)
 
 ## 5) Demonstration VDO
 สามารถรับชมวิดีโอสาธิตการทำงานและทดสอบระบบจริงได้ที่ลิงก์ด้านล่าง:
@@ -57,7 +57,7 @@
 ---
 
 📄 **อ่านรายงานและคู่มือการใช้งานฉบับเต็ม (Full Manual Report):**
-สามารถอ่านรายละเอียดเชิงลึก เอกสารการทดลอง และวงจรอย่างละเอียดได้ที่ไฟล์ [`docs/manual-report.pdf`](./05_Manual_report/manual-report.pdf)
+สามารถอ่านรายละเอียดเชิงลึก เอกสารการทดลอง และวงจรอย่างละเอียดได้ที่ไฟล์ [`05_Manual_report/manual-report.pdf`](./05_Manual_report/manual-report.pdf)
 
 ## 7) Presentation Files
 สามารถดาวน์โหลดไฟล์นำเสนอผลงานได้ที่นี่:
