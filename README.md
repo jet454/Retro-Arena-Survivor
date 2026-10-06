@@ -34,7 +34,7 @@
 | Status LEDs | Green/Yellow/Red | GPIO 16 / 17 / 5 | ไฟแสดงระดับ HP ของตัวละคร |
 | Passive Buzzer | Pin (+) | GPIO 26 | ส่งสัญญาณเสียงเอฟเฟกต์ SFX |
 
-* **Datasheets อุปกรณ์เพิ่มเติม:** สามารถดาวน์โหลดและอ่านรายละเอียดได้ในโฟลเดอร์ [`03_block_diagram_and_circuit_diagram/datasheets/datasheets/`](./03_block_diagram_and_circuit_diagram/datasheets/datasheets/)
+* **Datasheets อุปกรณ์เพิ่มเติม:** สามารถดาวน์โหลดและอ่านรายละเอียดได้ในโฟลเดอร์ [`03_block_diagram_and_circuit_diagram/datasheets/datasheets/`](./03_block_diagram_and_circuit_diagram/datasheets/)
 
 ## 4) Codes
 ซอร์สโค้ดฉบับสมบูรณ์ (เวอร์ชันล่าสุด) ถูกจัดเก็บอยู่ที่ [`04_codes/main.cpp`](./04_codes/main.cpp)
