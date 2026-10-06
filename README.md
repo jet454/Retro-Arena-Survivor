@@ -57,7 +57,7 @@
 ---
 
 📄 **อ่านรายงานและคู่มือการใช้งานฉบับเต็ม (Full Manual Report):**
-สามารถอ่านรายละเอียดเชิงลึก เอกสารการทดลอง และวงจรอย่างละเอียดได้ที่ไฟล์ [`05_Manual_report/manual-report.pdf`](./05_Manual_report/manual-report.pdf)
+สามารถอ่านรายละเอียดเชิงลึก เอกสารการทดลอง และวงจรอย่างละเอียดได้ที่ไฟล์ [`06_Manual_report/manual-report.pdf`](./06_Manual_report/manual-report.pdf)
 
 ## 7) Presentation Files
 สามารถดาวน์โหลดไฟล์นำเสนอผลงานได้ที่นี่:
