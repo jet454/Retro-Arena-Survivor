@@ -61,8 +61,8 @@
 
 ## 7) Presentation Files
 สามารถดาวน์โหลดไฟล์นำเสนอผลงานได้ที่นี่:
-* [ไฟล์สไลด์นำเสนอต้นฉบับ (.pptx)](./07_presentation_file/presentation.pptx)
-* [ไฟล์สไลด์นำเสนอ (.pdf)](./07_presentation_file/presentation.pdf)
+* [ไฟล์สไลด์นำเสนอต้นฉบับ (.pptx)](./07_Presentation_file/presentation.pptx)
+* [ไฟล์สไลด์นำเสนอ (.pdf)](./07_Presentation_file/presentation.pdf)
 
 ## 8) Presentation Clip (6 Minutes)
 คลิปวิดีโอการนำเสนอโครงงานความยาวไม่เกิน 6 นาที (เห็นหน้าสมาชิกผู้พรีเซนต์ทุกคนตลอดการนำเสนอ):
